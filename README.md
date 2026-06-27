@@ -19,3 +19,6 @@ This project was developed to demonstrate fundamental networking concepts, speci
 2. Run the script via the terminal:
    ```bash
    python port_scanner.py
+
+## ⚠️ Legal Disclaimer
+Do not use this tool against infrastructure you do not own or do not have explicit authorization to test. This script is strictly for educational purposes and local network diagnostics. If you wish to test it on the internet, use `scanme.nmap.org` , which is explicitly provisioned by the Nmap Security Scanner Project for educational scanning.
